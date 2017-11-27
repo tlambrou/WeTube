@@ -1,7 +1,7 @@
 {
-  "name": "react-redux-starter-kit",
+  "name": "we-tube",
   "version": "3.0.1",
-  "description": "Get started with React, Redux, and React-Router!",
+  "description": "App for browsing youtube's api built with react and redux",
   "main": "index.js",
   "scripts": {
     "clean": "rimraf dist",
