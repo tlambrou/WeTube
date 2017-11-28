@@ -1,10 +1,11 @@
-import React, { PropTypes } from 'react'
+import React from 'react'
+import PropTypes from 'prop-types';
 
 export const Search = (props) => {
   const { getVideos, videos, query } = props
   return (
     <div>
-      Hello World
+      Hello World!
     </div>
   )
 }

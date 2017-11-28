@@ -8,7 +8,7 @@ const actions = {
 }
 
 const mapStateToProps = (state) => {
-  const search = state.Search
+  const search = state.search
   return {
     videos: search.get('videos', fromJS([])),
     query: search.get('query', '')

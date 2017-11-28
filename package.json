@@ -15,9 +15,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/davezuko/react-redux-starter-kit.git"
+    "url": "git+https://github.com/tlambrou/WeTube.git"
   },
-  "author": "David Zukowski <david@zuko.me> (http://zuko.me)",
+  "author": "Tassos Lambrou",
   "license": "MIT",
   "dependencies": {
     "bootstrap": "^4.0.0-alpha",
@@ -25,10 +25,12 @@
     "express": "^4.14.0",
     "immutable": "^3.8.2",
     "isomorphic-fetch": "^2.2.1",
+    "jquery": "^3.2.1",
     "lodash": "^4.17.4",
     "object-assign": "^4.1.1",
+    "popper.js": "^1.12.9",
     "promise": "^7.1.1",
-    "prop-types": "^15.5.10",
+    "prop-types": "^15.6.0",
     "react": "^15.5.4",
     "react-dom": "^15.5.4",
     "react-redux": "^5.0.4",
